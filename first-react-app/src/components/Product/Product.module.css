@@ -1,0 +1,6 @@
+.product{
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    width: 300px;
+    padding: 1rem;
+}
