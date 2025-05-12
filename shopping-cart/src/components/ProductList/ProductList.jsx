@@ -6,7 +6,7 @@ const ProductList = (props) => {
     return (
         <div>
             {/* Below grid represent a row */}
-            <Grid container spacing={2}>
+            <Grid container spacing={2} mt={5}>
                 {
                     props.products.map((product) => {
                         // Grid below represent a column against a product
